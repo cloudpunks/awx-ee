@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.1.0](https://github.com/cloudpunks/awx-ee/compare/v1.0.1...v1.1.0) (2026-02-19)
+
+### Features
+
+* upgrade ansible-core to 2.18.x ([#11](https://github.com/cloudpunks/awx-ee/issues/11)) ([6cca88f](https://github.com/cloudpunks/awx-ee/commit/6cca88f0e0540c582b41a7d9fb4e6224bd6bc9db))
+
 ## [1.0.1](https://github.com/cloudpunks/awx-ee/compare/v1.0.0...v1.0.1) (2026-02-17)
 
 ### Bugfixes
