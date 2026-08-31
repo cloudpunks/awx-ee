@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.0](https://github.com/cloudpunks/awx-ee/compare/v1.1.0...v1.2.0) (2026-08-31)
+
+### Features
+
+* apply new standard repo structure and integrate mise ([7610dfd](https://github.com/cloudpunks/awx-ee/commit/7610dfdc3caf4fd071ef973f5a5ebcd71324b07d))
+
+### Dependencies
+
+* **minor:** update dependency pipx to v1.17.1 ([#51](https://github.com/cloudpunks/awx-ee/issues/51)) ([16f8778](https://github.com/cloudpunks/awx-ee/commit/16f8778640dab43e3be9aac01ea5aefd4dcbb96a))
+
 ## [1.1.0](https://github.com/cloudpunks/awx-ee/compare/v1.0.1...v1.1.0) (2026-02-19)
 
 ### Features
