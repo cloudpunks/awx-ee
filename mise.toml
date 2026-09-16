@@ -2,7 +2,7 @@
 
 [tools]
 node = "24"
-pipx = "1.17.2"
+pipx = "1.17.3"
 pre-commit = "4.6.2"
 python = "3.14.7"
 
