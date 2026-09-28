@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.3](https://github.com/cloudpunks/awx-ee/compare/v1.2.2...v1.2.3) (2026-09-28)
+
+### Dependencies
+
+* **patch:** update dependency pipx to v1.17.6 ([#56](https://github.com/cloudpunks/awx-ee/issues/56)) ([7916206](https://github.com/cloudpunks/awx-ee/commit/7916206e6c6e761609e6e8f7f25de45ed10ce8c4))
+
 ## [1.2.2](https://github.com/cloudpunks/awx-ee/compare/v1.2.1...v1.2.2) (2026-09-21)
 
 ### Dependencies
