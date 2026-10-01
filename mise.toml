@@ -4,6 +4,6 @@
 node = "24"
 pipx = "1.17.8"
 pre-commit = "4.6.2"
-python = "3.14.7"
+python = "3.14.8"
 
 "pipx:ansible-builder" = "3.1.1"
