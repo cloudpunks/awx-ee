@@ -6,4 +6,4 @@ pipx = "1.17.14"
 pre-commit = "4.6.2"
 python = "3.15.0"
 
-"pipx:ansible-builder" = "3.1.1"
+"pipx:ansible-builder" = "3.2.0"
