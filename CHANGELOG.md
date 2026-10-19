@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.4.0](https://github.com/cloudpunks/awx-ee/compare/v1.3.0...v1.4.0) (2026-10-19)
+
+### Dependencies
+
+* **minor:** update dependency pipx to v1.18.1 ([#70](https://github.com/cloudpunks/awx-ee/issues/70)) ([f73fe46](https://github.com/cloudpunks/awx-ee/commit/f73fe46ba61497ee9215e1225b13ffbacb5d2b4c))
+* **minor:** update dependency pipx:ansible-builder to v3.2.0 ([#69](https://github.com/cloudpunks/awx-ee/issues/69)) ([ffbeb8d](https://github.com/cloudpunks/awx-ee/commit/ffbeb8d7611a85b56317a61e77275371b82f2d12))
+* **minor:** update dependency pre-commit to v4.7.0 ([#68](https://github.com/cloudpunks/awx-ee/issues/68)) ([62b0a16](https://github.com/cloudpunks/awx-ee/commit/62b0a16e9b167088229d21a5f0a911aff71a4f84))
+* **patch:** update dependency pipx to v1.17.14 ([#67](https://github.com/cloudpunks/awx-ee/issues/67)) ([a278c23](https://github.com/cloudpunks/awx-ee/commit/a278c23a6b771a35bf2c357d5b8e66c8551fb3e6))
+* **patch:** update dependency pipx to v1.18.2 ([#71](https://github.com/cloudpunks/awx-ee/issues/71)) ([9200c68](https://github.com/cloudpunks/awx-ee/commit/9200c68576183b66e91e897a1f32528dfbd34883))
+* **patch:** update dependency pipx to v1.18.3 ([#72](https://github.com/cloudpunks/awx-ee/issues/72)) ([224f9cd](https://github.com/cloudpunks/awx-ee/commit/224f9cd7c0c59e6cda7807e40093b2704aa46868))
+* **patch:** update dependency pipx to v1.18.4 ([#73](https://github.com/cloudpunks/awx-ee/issues/73)) ([f834396](https://github.com/cloudpunks/awx-ee/commit/f834396c389b71ab7f0b5b356f1b353f708dee06))
+
 ## [1.3.0](https://github.com/cloudpunks/awx-ee/compare/v1.2.4...v1.3.0) (2026-10-12)
 
 ### Dependencies
