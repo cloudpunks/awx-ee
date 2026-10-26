@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.4.1](https://github.com/cloudpunks/awx-ee/compare/v1.4.0...v1.4.1) (2026-10-26)
+
+### Dependencies
+
+* **patch:** update dependency python to v3.15.1 ([#74](https://github.com/cloudpunks/awx-ee/issues/74)) ([6b1e24a](https://github.com/cloudpunks/awx-ee/commit/6b1e24abe52a22c9e6894303c265d7457d17ba29))
+
 ## [1.4.0](https://github.com/cloudpunks/awx-ee/compare/v1.3.0...v1.4.0) (2026-10-19)
 
 ### Dependencies
