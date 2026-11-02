@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.0.0](https://github.com/cloudpunks/awx-ee/compare/v1.4.1...v2.0.0) (2026-11-02)
+
+### Dependencies
+
+* **major:** update node.js to v26 ([#79](https://github.com/cloudpunks/awx-ee/issues/79)) ([752e19b](https://github.com/cloudpunks/awx-ee/commit/752e19bd6040d946901544f0ee821a06c980914a))
+* **patch:** update dependency pipx to v1.18.10 ([#82](https://github.com/cloudpunks/awx-ee/issues/82)) ([40ac224](https://github.com/cloudpunks/awx-ee/commit/40ac224a3952cdd8c70da41842a8bce5318caaed))
+* **patch:** update dependency pipx to v1.18.11 ([#83](https://github.com/cloudpunks/awx-ee/issues/83)) ([abdc8a6](https://github.com/cloudpunks/awx-ee/commit/abdc8a6cdd18f3faae2d75c151f2b9b826f9de8b))
+* **patch:** update dependency pipx to v1.18.5 ([#76](https://github.com/cloudpunks/awx-ee/issues/76)) ([dd95ce8](https://github.com/cloudpunks/awx-ee/commit/dd95ce81d1c5e49b63ef613358bd9fe2b5c93737))
+* **patch:** update dependency pipx to v1.18.6 ([#77](https://github.com/cloudpunks/awx-ee/issues/77)) ([103e210](https://github.com/cloudpunks/awx-ee/commit/103e210685895c9912baf10ed4ff7340291dc946))
+* **patch:** update dependency pipx to v1.18.7 ([#78](https://github.com/cloudpunks/awx-ee/issues/78)) ([a3d2dde](https://github.com/cloudpunks/awx-ee/commit/a3d2ddee7daacaf1e3ae783de05d24f8fcc013c1))
+* **patch:** update dependency pipx to v1.18.8 ([#80](https://github.com/cloudpunks/awx-ee/issues/80)) ([0d870d2](https://github.com/cloudpunks/awx-ee/commit/0d870d26b0aefacad9a55eca18dc42ae0c61a025))
+* **patch:** update dependency pipx to v1.18.9 ([#81](https://github.com/cloudpunks/awx-ee/issues/81)) ([e1b711e](https://github.com/cloudpunks/awx-ee/commit/e1b711e36362b886bc968f3b0c506991d9862bf4))
+* **patch:** update dependency python to v3.15.2 ([#75](https://github.com/cloudpunks/awx-ee/issues/75)) ([e238bb4](https://github.com/cloudpunks/awx-ee/commit/e238bb4e0fb2ffe26aabe550b8b2e105f4c8accc))
+
 ## [1.4.1](https://github.com/cloudpunks/awx-ee/compare/v1.4.0...v1.4.1) (2026-10-26)
 
 ### Dependencies
